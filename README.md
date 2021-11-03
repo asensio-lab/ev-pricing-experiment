@@ -41,7 +41,7 @@ The available list of fields in the derived data to support replication includes
 
 No personally identifiable information was collected or shared.
 
-
+For further details and instructions, see the comments in the R file EV_charging_project.R.
 
 
 
